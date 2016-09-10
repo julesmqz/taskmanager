@@ -1,0 +1,21 @@
+{
+  "name": "taskmanager",
+  "version": "1.0.0",
+  "description": "Task manager for jobs",
+  "main": "",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julio Márquez",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.4.2",
+    "mysql": "^2.11.1",
+    "shelljs": "^0.7.4",
+    "waterline": "^0.12.2",
+    "winston": "^2.2.0"
+  }
+}
